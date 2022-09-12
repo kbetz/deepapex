@@ -1,5 +1,5 @@
 # deepapex
-Master Thesis: Point Cloud Representations for Deep Learning Tasks in HighThroughput Mass Spectrometry
+Master Thesis (unfinished): Point Cloud Representations for Deep Learning Tasks in HighThroughput Mass Spectrometry
 
 This project requires the following modules:
 - proteolizard-data (https://github.com/theGreatHerrLebert/proteolizard-data)
